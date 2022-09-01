@@ -1,1 +1,1 @@
-Everybody access
+James Bond
