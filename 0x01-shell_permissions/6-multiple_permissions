@@ -1,2 +1,1 @@
-#!/bin/bash
-chmod u+x+g+o
+Multiple permissions
