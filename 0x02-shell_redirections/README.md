@@ -1,1 +1,1 @@
-No more javascript
+A gif is worth ten thousand words
