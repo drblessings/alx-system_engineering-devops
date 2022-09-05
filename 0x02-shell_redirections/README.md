@@ -1,1 +1,1 @@
-Acrostic
+Letters only please
