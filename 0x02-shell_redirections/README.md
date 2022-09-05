@@ -1,1 +1,1 @@
-Save current state of directory
+Don't just count your directories, make your directories count
